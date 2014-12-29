@@ -1,10 +1,4 @@
-//
-//  ___FILENAME___
-//  ___PROJECTNAME___
-//
 //  Created by ___FULLUSERNAME___ on ___DATE___.
-//___COPYRIGHT___
-//
 
 #import "___FILEBASENAME___.h"
 
@@ -16,7 +10,6 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do view setup here.
 }
 
 @end
