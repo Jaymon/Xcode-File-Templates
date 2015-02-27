@@ -2,6 +2,6 @@
 
 @import UIKit;
 
-@interface ___FILEBASENAMEASIDENTIFIER___ : UIView
+@interface ___FILEBASENAMEASIDENTIFIER___ : ___VARIABLE_subclass___
 
 @end
